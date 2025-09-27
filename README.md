@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Hi! I'm Axel Verástegui 👋
+# Hi! I'm Axel Verástegui 👋
 
 I'm a **Computer Science** student at the Faculty of Physical and Mathematical Sciences at the **Autonomous University of Nuevo León (UANL)**. I'm passionate about **Artificial Intelligence** and **mathematics**, always exploring how to transform ideas into code.
 
